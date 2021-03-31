@@ -16,7 +16,7 @@ export const Background = styled.div`
   @media (max-width: 1100px) {
     ${({ dontShowOnSmallViewPort }) =>
       dontShowOnSmallViewPort && `background: none;`}
-  }
+  } ;
 `;
 export const Container = styled.div`
   display: flex;
