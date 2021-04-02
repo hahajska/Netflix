@@ -19,7 +19,7 @@ export const Container = styled.div`
     }
   }
   &:last-of-type {
-    margin-bottom: 0;
+    margin-bottom: 5rem;
   }
 `;
 
